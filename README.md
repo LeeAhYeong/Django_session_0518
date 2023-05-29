@@ -1,5 +1,7 @@
 # Django_session_0518
+
 세션 질문 정답
+
 (1) 유지보수가 편리하다
 
 (2) self.title로 해서 title이 보여지는 것임
